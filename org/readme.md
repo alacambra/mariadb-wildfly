@@ -1,1 +1,1 @@
-put folder on ${WILDFLY_HOME}
+put folder on ${WILDFLY_HOME}/org/mariadb/jdbc/main
